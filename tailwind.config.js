@@ -2,7 +2,6 @@
 module.exports = {
   content: ["./dist/*.{html,js}"],
   theme: {
-   
     extend: {
       colors: {
         primary: '#1F314F',
